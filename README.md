@@ -1,13 +1,12 @@
 ## Welcome
-
-Im 16 years. <br>
-From Brazil <br>
 <br>
 ```python
 class Altini:
 
     def __init__(self):
         self.username = 'Altini'
+        self.country = 'Brazil'
+        self.age = '16'
         self.name = 'Vinícius Altini'
         self.position = 'Learning Java'
         self.links = 'https://beacons.ai/viniciusaltini'
