@@ -1,8 +1,21 @@
 ## Welcome
 
-Im Vinícius Altini. <br>
 Im 16 years. <br>
-Learning Java. <br>
 From Brazil <br>
+<br>
+class Altini:
 
-<a href="https://beacons.ai/viniciusaltini" target="_blank"> More about. </a>
+    def __init__(self):
+        self.username = 'Altini'
+        self.name = 'Vinícius Altini'
+        self.position = 'Learning Java'
+        self.links = 'https://beacons.ai/viniciusaltini'
+        
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = RafnixG()
+    print(me)
+
