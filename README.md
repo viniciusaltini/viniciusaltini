@@ -7,8 +7,8 @@ From Brazil <br>
 class Altini:
 
     def __init__(self):
-        self.username = 'Vinícius Altini'
-        self.name = 'Altini'
+        self.username = 'Altini'
+        self.name = 'Vinícius Altini'
         self.position = 'Learning Java'
         self.links = 'https://beacons.ai/viniciusaltini'
 
