@@ -7,7 +7,7 @@ class Altini:
     def __init__(self):
         self.username = 'Altini'
         self.country = 'Brazil'
-        self.age = '16'
+        self.age = '17'
         self.name = 'Vinícius Altini'
         self.position = 'Learning Java'
         self.links = 'https://beacons.ai/viniciusaltini'
